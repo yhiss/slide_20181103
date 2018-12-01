@@ -5,10 +5,14 @@
 
 ---
 
-### SIGNATEの国立公園宿泊者数予測コンペ
+### SIGNATEの国立公園宿泊者数  
+### 予測コンペ
 
 ---
-![alt](https://re.deepinsider.jp/tutor/introdeeplearning/workflow/33.gif)
+### 何するのか？？
+
+---
+### 8つの国立公園に2017年1月1日～12月31日まで泊まった人の数を当てる
 
 ---
 ![スラブ](https://github.com/yhiss/slide_20181103/blob/master/%E3%83%90%E3%83%A9%E3%82%B9%E3%83%88.jpg)
